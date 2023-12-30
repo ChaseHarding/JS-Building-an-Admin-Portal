@@ -5,7 +5,7 @@
       "title": "The Shinobi Initiative",
       "description": "The reality-bending adventures of a clandestine service agency in the year 2166",
       "year": 2014,
-      "quantity": "10",
+      "quantity": "2",
       "imageURL": "/assets/shinobi-initiative.jpeg"
     },
     {
@@ -13,7 +13,7 @@
       "title": "Tess the Wonder Dog",
       "description": "The tale of a dog who gets super powers",
       "year": 2007,
-      "quantity": "3",
+      "quantity": "4",
       "imageURL": "/assets/tess.jpg"
     },
     {
@@ -21,7 +21,7 @@
       "title": "The Annals of Arathrae",
       "description": "This anthology tells the intertwined narratives of six fairy tales.",
       "year": 2016,
-      "quantity": "8",
+      "quantity": "16",
       "imageURL": "/assets/arathrae.jpeg"
     },
     {
